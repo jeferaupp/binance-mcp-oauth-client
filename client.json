@@ -1,0 +1,8 @@
+{
+  "client_id": "https://jeferaupp.github.io/binance-mcp-oauth-client/client.json",
+  "client_name": "Paperclip (Binance MCP plugin)",
+  "redirect_uris": ["http://127.0.0.1:53682/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
